@@ -1,0 +1,145 @@
+,name,lon,lat,city,postcode,street,coordinates,isin_kreis_1,isin_kreis_2,isin_kreis_3,isin_kreis_4,isin_kreis_5,isin_kreis_6,isin_kreis_7,isin_kreis_8,isin_kreis_9,isin_kreis_10,isin_kreis_11,isin_kreis_12,parent
+4,Coop Bahnhofbrücke,8.542160800000001,47.3767316,Zürich,8001,Bahnhofbrücke,"(8.5421608 , 47.3767316)",True,False,False,False,False,False,False,False,False,False,False,False,Coop
+5,Migros Wengihof,8.522895,47.37502,Zürich,8004,Wengistrasse,"(8.522895 , 47.37502)",False,False,False,True,False,False,False,False,False,False,False,False,Migros
+13,Aldi,8.530600699999999,47.3409666,Zürich,8038,Albisstrasse,"(8.5306007 , 47.3409666)",False,True,False,False,False,False,False,False,False,False,False,False,Aldi
+14,Coop Wollishofen,8.530546099999999,47.340069799999995,Zürich,8038,Alte Kalchbühlstrasse,"(8.5305461 , 47.3400698)",False,True,False,False,False,False,False,False,False,False,False,False,Coop
+16,Migros Wollishofen,8.5299814,47.344748700000004,Zürich,8038,Etzelstrasse,"(8.5299814 , 47.3447487)",False,True,False,False,False,False,False,False,False,False,False,False,Migros
+21,Migros City,8.536107300000001,47.3752549,Zürich,8001,Löwenstrasse,"(8.5361073 , 47.3752549)",True,False,False,False,False,False,False,False,False,False,False,False,Migros
+38,Coop Hönggermarkt,8.498733300000001,47.40252,Zürich,8049,Regensdorferstrasse,"(8.4987333 , 47.40252)",False,False,False,False,False,False,False,False,False,True,False,False,Coop
+39,Denner,8.498072500000001,47.4032811,Zürich,8049,Regensdorferstrasse,"(8.4980725 , 47.4032811)",False,False,False,False,False,False,False,False,False,True,False,False,Migros
+57,Migros Bahnhof Enge,8.5309446,47.3640724,Zürich,8002,Tessinerplatz,"(8.5309446 , 47.3640724)",False,True,False,False,False,False,False,False,False,False,False,False,Migros
+65,Coop Fluntern,8.559594500000001,47.376417,Zürich,8044,Zürichbergstrasse,"(8.5595945 , 47.376417)",False,False,False,False,False,False,True,False,False,False,False,False,Coop
+67,Coop Albisriederplatz,8.5112192,47.3777162,Zürich,8003,Badenerstrasse,"(8.5112192 , 47.3777162)",False,False,True,False,False,False,False,False,False,False,False,False,Coop
+73,Aldi Suisse,8.496619500000001,47.3882598,Zürich,8048,Hohlstrasse,"(8.4966195 , 47.3882598)",False,False,False,False,False,False,False,False,True,False,False,False,Aldi
+74,Coop Maagplatz,8.516573900000001,47.3858089,Zürich,8005,Maagplatz,"(8.5165739 , 47.3858089)",False,False,False,False,True,False,False,False,False,False,False,False,Coop
+75,Migros Limmatplatz,8.5314709,47.3855977,Zürich,8005,Limmatstrasse,"(8.5314709 , 47.3855977)",False,False,False,False,True,False,False,False,False,False,False,False,Migros
+76,Coop Manessehof,8.521006,47.3648716,Zürich,8045,Uetlibergstrasse,"(8.521006 , 47.3648716)",False,False,True,False,False,False,False,False,False,False,False,False,Coop
+79,Coop City Bellevue Food,8.546173699999999,47.36736,Zürich,8001,Theaterstrasse,"(8.5461737 , 47.36736)",True,False,False,False,False,False,False,False,False,False,False,False,Coop
+85,Coop Seefeld,8.5546463,47.357940299999996,Zürich,8008,Seefeldstrasse,"(8.5546463 , 47.3579403)",False,False,False,False,False,False,False,True,False,False,False,False,Coop
+86,Migros Höschgasse,8.5540739,47.358366700000005,Zürich,8008,Seefeldstrasse,"(8.5540739 , 47.3583667)",False,False,False,False,False,False,False,True,False,False,False,False,Migros
+87,Migros Stadelhofen,8.5480408,47.365678100000004,Zürich,8008,Falkenstrasse,"(8.5480408 , 47.3656781)",True,False,False,False,False,False,False,False,False,False,False,False,Migros
+88,Coop Stadelhofen,8.5481842,47.36676920000001,Zürich,8001,Stadelhoferstrasse,"(8.5481842 , 47.3667692)",True,False,False,False,False,False,False,False,False,False,False,False,Coop
+89,Migros Kreuzplatz,8.5532614,47.3659445,Zürich,8032,Kreuzstrasse,"(8.5532614 , 47.3659445)",False,False,False,False,False,False,True,False,False,False,False,False,Migros
+90,Coop Kreuzplatz,8.5551291,47.3643,Zürich,8008,Forchstrasse,"(8.5551291 , 47.3643)",False,False,False,False,False,False,False,True,False,False,False,False,Coop
+93,Migros Burgwies,8.5713693,47.3576104,Zürich,8008,Forchstrasse,"(8.5713693 , 47.3576104)",False,False,False,False,False,False,False,True,False,False,False,False,Migros
+99,Lidl,8.5413011,47.36895820000001,Zürich,8001,Fraumünsterstrasse,"(8.5413011 , 47.3689582)",True,False,False,False,False,False,False,False,False,False,False,False,Lidl
+100,Coop Wehntalerstrasse,8.5056989,47.41888839999999,Zürich,8046,Wehntalerstrasse,"(8.5056989 , 47.4188884)",False,False,False,False,False,False,False,False,False,False,True,False,Coop
+128,Coop Scheffelstrasse,8.529543499999999,47.3936485,Zürich,8037,Scheffelstrasse,"(8.5295435 , 47.3936485)",False,False,False,False,False,False,False,False,False,True,False,False,Coop
+129,Coop Wipkingerbrücke,8.5245187,47.392523499999996,Zürich,8037,Röschibachstrasse,"(8.5245187 , 47.3925235)",False,False,False,False,False,False,False,False,False,True,False,False,Coop
+178,Denner,8.5294871,47.372825899999995,Zürich,8004,Werdstrasse,"(8.5294871 , 47.3728259)",False,False,False,True,False,False,False,False,False,False,False,False,Migros
+195,Coop Rütihof,8.4794588,47.4137195,Zürich,8049,Rütihofstrasse,"(8.4794588 , 47.4137195)",False,False,False,False,False,False,False,False,False,True,False,False,Coop
+197,Migros Seebach,8.5484516,47.4194826,Zürich,8052,Schaffhauserstrasse,"(8.5484516 , 47.4194826)",False,False,False,False,False,False,False,False,False,False,True,False,Migros
+198,Denner,8.5493361,47.4211612,Zürich,8052,Schaffhauserstrasse,"(8.5493361 , 47.4211612)",False,False,False,False,False,False,False,False,False,False,True,False,Migros
+203,Denner,8.5234086,47.3748981,Zürich,8004,Wengistrasse,"(8.5234086 , 47.3748981)",False,False,False,True,False,False,False,False,False,False,False,False,Migros
+204,Coop Hohlstrasse,8.5264444,47.377077899999996,Zürich,8004,Hohlstrasse,"(8.5264444 , 47.3770779)",False,False,False,True,False,False,False,False,False,False,False,False,Coop
+206,Coop Universitätstrasse,8.5479921,47.382504299999994,Zürich,8006,Universitätstrasse,"(8.5479921 , 47.3825043)",False,False,False,False,False,True,False,False,False,False,False,False,Coop
+207,Denner,8.5264773,47.41143220000001,Zürich,8050,Regensbergstrasse,"(8.5264773 , 47.4114322)",False,False,False,False,False,False,False,False,False,False,True,False,Migros
+213,Migros Albisriederplatz,8.5087992,47.3791999,Zürich,8004,Badenerstrasse,"(8.5087992 , 47.3791999)",False,False,False,True,False,False,False,False,False,False,False,False,Migros
+214,Coop Lochergut,8.517444699999999,47.375800899999994,Zürich,8004,Badenerstrasse,"(8.5174447 , 47.3758009)",False,False,False,True,False,False,False,False,False,False,False,False,Coop
+229,Migros Schaffhauserplatz,8.5384284,47.3925525,Zürich,8057,Schaffhauserstrasse,"(8.5384284 , 47.3925525)",False,False,False,False,False,True,False,False,False,False,False,False,Migros
+230,Coop Milchbuck,8.5404707,47.395724799999996,Zürich,8057,Milchbuckstrasse,"(8.5404707 , 47.3957248)",False,False,False,False,False,True,False,False,False,False,False,False,Coop
+235,Denner,8.5317649,47.3841236,Zürich,8005,Fierzgasse,"(8.5317649 , 47.3841236)",False,False,False,False,True,False,False,False,False,False,False,False,Migros
+276,Migros Schmiede Wiedikon,8.5200924,47.3701218,Zürich,8003,Birmensdorferstrasse,"(8.5200924 , 47.3701218)",False,False,True,False,False,False,False,False,False,False,False,False,Migros
+373,Coop Schwamendingen,8.571879199999998,47.404782,Zürich,8051,Saatlenstrasse,"(8.5718792 , 47.404782)",False,False,False,False,False,False,False,False,False,False,False,True,Coop
+436,Spar,8.4992903,47.423126700000005,Zürich,8046,Wehntalerstrasse,"(8.4992903 , 47.4231267)",False,False,False,False,False,False,False,False,False,False,True,False,Spar
+453,Migros Brunaupark,8.5173007,47.3580599,Zürich,8045,Giesshübelstrasse,"(8.5173007 , 47.3580599)",False,False,True,False,False,False,False,False,False,False,False,False,Migros
+454,Spar,8.528030099999999,47.4115497,Zürich,8050,Regensbergstrasse,"(8.5280301 , 47.4115497)",False,False,False,False,False,False,False,False,False,False,True,False,Spar
+455,Migros Affoltern,8.5082174,47.4204198,Zürich,8046,Jonas-Furrer-Strasse,"(8.5082174 , 47.4204198)",False,False,False,False,False,False,False,False,False,False,True,False,Migros
+456,Denner,8.508089100000001,47.419908500000005,Zürich,8046,In Böden,"(8.5080891 , 47.4199085)",False,False,False,False,False,False,False,False,False,False,True,False,Migros
+464,Migros Oerlikon Neumarkt,8.543095300000001,47.4105711,Zürich,8050,Hofwiesenstrasse,"(8.5430953 , 47.4105711)",False,False,False,False,False,False,False,False,False,False,True,False,Migros
+477,Coop Josefstrasse,8.527125,47.3847889,Zürich,8005,Röntgenstrasse,"(8.527125 , 47.3847889)",False,False,False,False,True,False,False,False,False,False,False,False,Coop
+492,Coop Friesenberg,8.5067302,47.3610014,Zürich,8045,Friesenbergplatz,"(8.5067302 , 47.3610014)",False,False,True,False,False,False,False,False,False,False,False,False,Coop
+502,Migros Wipkingen,8.5292465,47.393708399999994,Zürich,8037,Scheffelstrasse,"(8.5292465 , 47.3937084)",False,False,False,False,False,False,False,False,False,True,False,False,Migros
+503,Denner,8.532628599999999,47.398866600000005,Zürich,8057,Hofwiesenstrasse,"(8.5326286 , 47.3988666)",False,False,False,False,False,True,False,False,False,False,False,False,Migros
+504,Denner,8.4839506,47.3759665,Zürich,8047,Bockhornstrasse,"(8.4839506 , 47.3759665)",False,False,False,False,False,False,False,False,True,False,False,False,Migros
+505,Aldi Suisse,8.5391013,47.4137506,Zürich,8050,Binzmühlestrasse,"(8.5391013 , 47.4137506)",False,False,False,False,False,False,False,False,False,False,True,False,Aldi
+556,Lidl,8.5149344,47.361771600000004,Zürich,8045,Grubenstrasse,"(8.5149344 , 47.3617716)",False,False,True,False,False,False,False,False,False,False,False,False,Lidl
+619,Coop Hirzenbach,8.5893605,47.403421200000004,Zürich,8051,Hirzenbachstrasse,"(8.5893605 , 47.4034212)",False,False,False,False,False,False,False,False,False,False,False,True,Coop
+627,Coop Triemli,8.492019099999998,47.370275299999996,Zürich,8047,In der Ey,"(8.4920191 , 47.3702753)",False,False,False,False,False,False,False,False,True,False,False,False,Coop
+631,VOI In der Ey,8.4928227,47.3704581,Zürich,8047,Letzigraben,"(8.4928227 , 47.3704581)",False,False,False,False,False,False,False,False,True,False,False,False,Migros
+652,Migros Schwamendingen,8.573042300000001,47.4037955,Zürich,8051,Winterthurerstrasse,"(8.5730423 , 47.4037955)",False,False,False,False,False,False,False,False,False,False,False,True,Migros
+653,Denner,8.5727162,47.403979,Zürich,8051,Winterthurerstrasse,"(8.5727162 , 47.403979)",False,False,False,False,False,False,False,False,False,False,False,True,Migros
+663,Coop Stauffacher,8.5305624,47.373288200000005,Zürich,8004,Badenerstrasse,"(8.5305624 , 47.3732882)",False,False,False,True,False,False,False,False,False,False,False,False,Coop
+673,Coop Albisrieden,8.4870696,47.3758999,Zürich,8047,Albisriederstrasse,"(8.4870696 , 47.3758999)",False,False,False,False,False,False,False,False,True,False,False,False,Coop
+718,Denner,8.5744967,47.404605,Zürich,8051,Winterthurerstrasse,"(8.5744967 , 47.404605)",False,False,False,False,False,False,False,False,False,False,False,True,Migros
+768,VOI Paradies,8.529589,47.33472879999999,Zürich,8038,Paradiesstrasse,"(8.529589 , 47.3347288)",False,True,False,False,False,False,False,False,False,False,False,False,Migros
+775,Coop Eleven,8.540361500000001,47.4134145,Zürich,8050,Sophie-Taeuber-Strasse,"(8.5403615 , 47.4134145)",False,False,False,False,False,False,False,False,False,False,True,False,Coop
+842,Coop Puls 5,8.5183213,47.3907031,Zürich,8005,Giessereistrasse,"(8.5183213 , 47.3907031)",False,False,False,False,True,False,False,False,False,False,False,False,Coop
+913,Lidl,8.5456832,47.4103223,Zürich,8050,Ohmstrasse,"(8.5456832 , 47.4103223)",False,False,False,False,False,False,False,False,False,False,True,False,Lidl
+914,Coop Dorflinde,8.5491079,47.407567,Zürich,8050,Schwamendingenstrasse,"(8.5491079 , 47.407567)",False,False,False,False,False,False,False,False,False,False,True,False,Coop
+940,Coop Witikon,8.5947159,47.3602011,Zürich,8053,Witikonerstrasse,"(8.5947159 , 47.3602011)",False,False,False,False,False,False,True,False,False,False,False,False,Coop
+944,Migros Toblerplatz,8.5594679,47.3793846,Zürich,8044,Toblerstrasse,"(8.5594679 , 47.3793846)",False,False,False,False,False,False,True,False,False,False,False,False,Migros
+948,Spar,8.546437300000001,47.402792100000006,Zürich,8057,Schaffhauserstrasse,"(8.5464373 , 47.4027921)",False,False,False,False,False,False,False,False,False,False,True,False,Spar
+959,Lian Hua Asia Grocery Store,8.547921,47.404084600000004,Zürich,8057,Schaffhauserstrasse,"(8.547921 , 47.4040846)",False,False,False,False,False,False,False,False,False,False,True,False,Other
+960,Coop Mühlackerstrasse,8.4969763,47.4256283,Zürich,8046,Mühlackerstrasse,"(8.4969763 , 47.4256283)",False,False,False,False,False,False,False,False,False,False,True,False,Coop
+968,Aldi Suisse,8.556656199999999,47.41943679999999,Zürich,8052,Schärenmoosstrasse,"(8.5566562 , 47.4194368)",False,False,False,False,False,False,False,False,False,False,True,False,Aldi
+1005,Spar,8.5878428,47.400032,Zürich,8051,Dübendorfstrasse,"(8.5878428 , 47.400032)",False,False,False,False,False,False,False,False,False,False,False,True,Spar
+1086,Denner,8.530718199999999,47.3444645,Zürich,8038,Etzelstrasse,"(8.5307182 , 47.3444645)",False,True,False,False,False,False,False,False,False,False,False,False,Migros
+1105,Coop Römerhof,8.560805300000002,47.3678218,Zürich,8032,Klosbachstrasse,"(8.5608053 , 47.3678218)",False,False,False,False,False,False,True,False,False,False,False,False,Coop
+1120,Migros Witikon-Zentrum,8.5856445,47.3592199,Zürich,8053,Witikonerstrasse,"(8.5856445 , 47.3592199)",False,False,False,False,False,False,True,False,False,False,False,False,Migros
+1121,Denner,8.5863177,47.3584946,Zürich,8053,Witikonerstrasse,"(8.5863177 , 47.3584946)",False,False,False,False,False,False,True,False,False,False,False,False,Migros
+1164,Lidl,8.5852897,47.4077419,Zürich,8051,Ueberlandstrasse,"(8.5852897 , 47.4077419)",False,False,False,False,False,False,False,False,False,False,False,True,Lidl
+1201,Coop Hofwiesenstrasse,8.5445995,47.4112061,Zürich,8050,Hofwiesenstrasse,"(8.5445995 , 47.4112061)",False,False,False,False,False,False,False,False,False,False,True,False,Coop
+1273,Spar,8.5569289,47.370276000000004,Zürich,8032,Dolderstrasse,"(8.5569289 , 47.370276)",False,False,False,False,False,False,True,False,False,False,False,False,Spar
+1274,Denner,8.5029311,47.36922070000001,Zürich,8055,Birmensdorferstrasse,"(8.5029311 , 47.3692207)",False,False,True,False,False,False,False,False,False,False,False,False,Migros
+1275,Migros Wiedikon M-Märt,8.508444500000001,47.3702412,Zürich,8055,Birmensdorferstrasse,"(8.5084445 , 47.3702412)",False,False,True,False,False,False,False,False,False,False,False,False,Migros
+1276,Denner,8.508714999999999,47.370239,Zürich,8055,Birmensdorferstrasse,"(8.508715 , 47.370239)",False,False,True,False,False,False,False,False,False,False,False,False,Migros
+1306,Coop Bärengasse,8.5371556,47.3702516,Zürich,8001,Bärengasse,"(8.5371556 , 47.3702516)",True,False,False,False,False,False,False,False,False,False,False,False,Coop
+1348,VOI Witikon,8.593904,47.3599127,Zürich,8053,Loorenstrasse,"(8.593904 , 47.3599127)",False,False,False,False,False,False,True,False,False,False,False,False,Migros
+1349,Migros Höngg,8.4973179,47.4037862,Zürich,8049,Regensdorferstrasse,"(8.4973179 , 47.4037862)",False,False,False,False,False,False,False,False,False,True,False,False,Migros
+1386,Coop Wiedikon,8.5158561,47.3707927,Zürich,8003,Birmensdorferstrasse,"(8.5158561 , 47.3707927)",False,False,True,False,False,False,False,False,False,False,False,False,Coop
+1395,Coop Gutstrasse,8.5023375,47.37374929999999,Zürich,8047,Gutstrasse,"(8.5023375 , 47.3737493)",False,False,False,False,False,False,False,False,True,False,False,False,Coop
+1443,Coop Lindenplatz,8.4854662,47.3875596,Zürich,8048,Lindenplatz,"(8.4854662 , 47.3875596)",False,False,False,False,False,False,False,False,True,False,False,False,Coop
+1533,Coop Altstetten,8.488920599999998,47.387410100000004,Zürich,8048,Badenerstrasse,"(8.4889206 , 47.3874101)",False,False,False,False,False,False,False,False,True,False,False,False,Coop
+1557,Coop Europaallee,8.534719500000001,47.377731299999994,Zürich,8004,Europaallee,"(8.5347195 , 47.3777313)",False,False,False,True,False,False,False,False,False,False,False,False,Coop
+1561,Migros Altstetten Neumarkt,8.4875671,47.3882833,Zürich,8048,Altstetterstrasse,"(8.4875671 , 47.3882833)",False,False,False,False,False,False,False,False,True,False,False,False,Migros
+1563,Coop Precisa,8.5626146,47.411194099999996,Zürich,8050,Wallisellenstrasse,"(8.5626146 , 47.4111941)",False,False,False,False,False,False,False,False,False,False,False,True,Coop
+1644,Coop Westlink,8.4898151,47.392126399999995,Zürich,8048,Vulkanplatz,"(8.4898151 , 47.3921264)",False,False,False,False,False,False,False,False,True,False,False,False,Coop
+1718,Denner,8.484888900000001,47.3919775,Zürich,8048,Hohlstrasse,"(8.4848889 , 47.3919775)",False,False,False,False,False,False,False,False,True,False,False,False,Migros
+1721,Coop Leimbach,8.514451,47.3261834,Zürich,8041,Leimbachstrasse,"(8.514451 , 47.3261834)",False,True,False,False,False,False,False,False,False,False,False,False,Coop
+1751,Aldi Suisse,8.5918795,47.405947999999995,Zürich,8051,Ueberlandstrasse,"(8.5918795 , 47.405948)",False,False,False,False,False,False,False,False,False,False,False,True,Aldi
+1813,Coop Letzipark,8.4996784,47.386261600000005,Zürich,8048,Baslerstrasse,"(8.4996784 , 47.3862616)",False,False,False,False,False,False,False,False,True,False,False,False,Coop
+1826,VOI Leimbach,8.5152768,47.329774,Zürich,8041,Ankenweid,"(8.5152768 , 47.329774)",False,True,False,False,False,False,False,False,False,False,False,False,Migros
+1833,Denner,8.5180317,47.3581515,Zürich,8045,Giesshübelstrasse,"(8.5180317 , 47.3581515)",False,False,True,False,False,False,False,False,False,False,False,False,Migros
+1876,Coop Schwellistrasse,8.5377913,47.424962799999996,Zürich,8052,Schwellistrasse,"(8.5377913 , 47.4249628)",False,False,False,False,False,False,False,False,False,False,True,False,Coop
+1975,Migros Herdern,8.5086792,47.390106200000005,Zürich,8005,Pfingstweidstrasse,"(8.5086792 , 47.3901062)",False,False,False,False,True,False,False,False,False,False,False,False,Migros
+1997,Alnatura Höngg,8.4979498,47.4033485,Zürich,8049,Kappenbühlweg,"(8.4979498 , 47.4033485)",False,False,False,False,False,False,False,False,False,True,False,False,Migros
+2009,Otto's Zürich,8.488844699999998,47.387499600000005,Zürich,8048,Badenerstrasse,"(8.4888447 , 47.3874996)",False,False,False,False,False,False,False,False,True,False,False,False,Other
+2013,Coop Hardturm Park,8.5081865,47.3911135,Zürich,8005,Pfingstweidstrasse,"(8.5081865 , 47.3911135)",False,False,False,False,True,False,False,False,False,False,False,False,Coop
+2042,Migros Leimbach Sihlbogen,8.5189993,47.3360299,Zürich,8041,Leimbachstrasse,"(8.5189993 , 47.3360299)",False,True,False,False,False,False,False,False,False,False,False,False,Migros
+2129,Denner,8.530789500000001,47.383295000000004,Zürich,8005,Josefstrasse,"(8.5307895 , 47.383295)",False,False,False,False,True,False,False,False,False,False,False,False,Migros
+2175,Alnatura City,8.5361724,47.37502070000001,Zürich,8001,Löwenstrasse,"(8.5361724 , 47.3750207)",True,False,False,False,False,False,False,False,False,False,False,False,Migros
+2190,Aldi Suisse,8.5437179,47.4089385,Zürich,8050,Baumackerstrasse,"(8.5437179 , 47.4089385)",False,False,False,False,False,False,False,False,False,False,True,False,Aldi
+2191,Denner,8.5485107,47.4073192,Zürich,8050,Schwamendingenstrasse,"(8.5485107 , 47.4073192)",False,False,False,False,False,False,False,False,False,False,True,False,Migros
+2224,Spar,8.4896864,47.3800378,Zürich,8047,Freilagerstrasse,"(8.4896864 , 47.3800378)",False,False,False,False,False,False,False,False,True,False,False,False,Spar
+2225,Alnatura Oerlikon,8.5435046,47.4090111,Zürich,8050,Baumackerstrasse,"(8.5435046 , 47.4090111)",False,False,False,False,False,False,False,False,False,False,True,False,Migros
+2234,Coop Wollishofen Seestrasse,8.5330286,47.347207700000006,Zürich,8038,Seestrasse,"(8.5330286 , 47.3472077)",False,True,False,False,False,False,False,False,False,False,False,False,Coop
+2260,Coop Rigiplatz,8.548021400000001,47.383878,Zürich,8006,Universitätstrasse,"(8.5480214 , 47.383878)",False,False,False,False,False,True,False,False,False,False,False,False,Coop
+2288,Aldi Suisse,8.533236099999998,47.3808588,Zürich,8005,Zollstrasse,"(8.5332361 , 47.3808588)",False,False,False,False,True,False,False,False,False,False,False,False,Aldi
+2291,Migros Hauptbahnhof,8.5404169,47.3782902,Zürich,8001, ,"(8.5404169 , 47.3782902)",True,False,False,False,False,False,False,False,False,False,False,False,Migros
+2292,Coop Hauptbahnhof,8.538369,47.377825200000004,Zürich,8001, ,"(8.538369 , 47.3778252)",True,False,False,False,False,False,False,False,False,False,False,False,Coop
+2293,Migros ShopVilleMärt,8.5394102,47.3770315,Zürich,8001, ,"(8.5394102 , 47.3770315)",True,False,False,False,False,False,False,False,False,False,False,False,Migros
+2311,Coop,8.534870199999999,47.380695700000004,Zürich,8005,Zollstrasse,"(8.5348702 , 47.3806957)",False,False,False,False,True,False,False,False,False,False,False,False,Coop
+2412,Migros Pünt Albisrieden,8.485717999999999,47.3752033,Zürich,8047,Albisriederstrasse,"(8.485718 , 47.3752033)",False,False,False,False,False,False,False,False,True,False,False,False,Migros
+2413,M-Outlet Herdern,8.5087002,47.3900789,Zürich,8005,Pfingstweidstrasse,"(8.5087002 , 47.3900789)",False,False,False,False,True,False,False,False,False,False,False,False,Migros
+2414,Migros Rigiplatz,8.5486931,47.3859928,Zürich,8006,Winterthurerstrasse,"(8.5486931 , 47.3859928)",False,False,False,False,False,True,False,False,False,False,False,False,Migros
+2415,VOI Grünau,8.4865224,47.396145000000004,Zürich,8064,Grünauring,"(8.4865224 , 47.396145)",False,False,False,False,False,False,False,False,True,False,False,False,Migros
+2419,Denner,8.543497300000002,47.4105537,Zürich,8050, ,"(8.5434973 , 47.4105537)",False,False,False,False,False,False,False,False,False,False,True,False,Migros
+2421,Denner,8.4870669,47.3887075,Zürich,8048,Altstetterstrasse,"(8.4870669 , 47.3887075)",False,False,False,False,False,False,False,False,True,False,False,False,Migros
+2422,Denner,8.4995797,47.385999700000006,Zürich,8048,Baslerstrasse,"(8.4995797 , 47.3859997)",False,False,False,False,False,False,False,False,True,False,False,False,Migros
+2427,Coop City St. Annahof Food,8.537713,47.3729278,Zürich,8001,Bahnhofstrasse,"(8.537713 , 47.3729278)",True,False,False,False,False,False,False,False,False,False,False,False,Coop
+2432,Spar,8.563379199999998,47.360408299999996,Zürich,8032,Forchstrasse,"(8.5633792 , 47.3604083)",False,False,False,False,False,False,True,False,False,False,False,False,Spar
+2438,Aldi Suisse,8.4978671,47.3838311,Zürich,8048,Badenerstrasse,"(8.4978671 , 47.3838311)",False,False,False,False,False,False,False,False,True,False,False,False,Aldi
+2440,Coop Brotgasse,8.549921000000001,47.363156,Zürich,8008,Seefeldstrasse,"(8.549921 , 47.363156)",False,False,False,False,False,False,False,True,False,False,False,False,Coop
+2446,Coop Sihlcity,8.5228769,47.3574475,Zürich,8045,Kalanderplatz,"(8.5228769 , 47.3574475)",False,False,True,False,False,False,False,False,False,False,False,False,Coop
+2447,Coop Suteracher,8.471855999999999,47.3898336,Zürich,8048,Am Suteracher,"(8.471856 , 47.3898336)",False,False,False,False,False,False,False,False,True,False,False,False,Coop
+2448,Coop City Oerlikon Food,8.5467405,47.4104766,Zürich,8050,Wallisellenstrasse,"(8.5467405 , 47.4104766)",False,False,False,False,False,False,False,False,False,False,True,False,Coop
+2449,Coop Tiefenbrunnen,8.558975,47.3533217,Zürich,8008,Seefeldstrasse,"(8.558975 , 47.3533217)",False,False,False,False,False,False,False,True,False,False,False,False,Coop
+2565,Coop Bombach,8.4813811,47.4058783,Zürich,8049,Frankentalerstrasse,"(8.4813811 , 47.4058783)",False,False,False,False,False,False,False,False,False,True,False,False,Coop
+2642,Coop Bleicherweg,8.535848199999998,47.3677811, , , ,"(8.5358482 , 47.3677811)",False,True,False,False,False,False,False,False,False,False,False,False,Coop
+2712,Coop,8.5470117,47.4128725,Zürich,8050,Andreasstrasse,"(8.5470117 , 47.4128725)",False,False,False,False,False,False,False,False,False,False,True,False,Coop
+2762,Coop,8.4839444,47.393543, , , ,"(8.4839444 , 47.393543)",False,False,False,False,False,False,False,False,True,False,False,False,Coop
+2771,Coop,8.507715800000001,47.407788700000005, , , ,"(8.5077158 , 47.4077887)",False,False,False,False,False,False,False,False,False,True,False,False,Coop
+2826,Migros,8.535903999999999,47.3782589,Zürich,8001, ,"(8.535904 , 47.3782589)",False,False,False,True,False,False,False,False,False,False,False,False,Migros
+2827,Alnatura,8.535839300000001,47.3782757,Zürich,8001, ,"(8.5358393 , 47.3782757)",False,False,False,True,False,False,False,False,False,False,False,False,Migros
+2864,VOI,8.5183575,47.3953281,Zürich,8037,Hönggerstrasse,"(8.5183575 , 47.3953281)",False,False,False,False,False,False,False,False,False,True,False,False,Migros
