@@ -1,0 +1,576 @@
+,name,lat,lon,criteria,kreis
+0,Coop Bahnhofbrücke,47.3767316,8.542160800000001,market,kreis_1
+1,Migros Wengihof,47.37502,8.522895,Migros,kreis_4
+2,Aldi,47.3409666,8.530600699999999,market,kreis_2
+3,Coop Wollishofen,47.340069799999995,8.530546099999999,market,kreis_2
+4,Migros Wollishofen,47.344748700000004,8.5299814,Migros,kreis_2
+5,Migros City,47.3752549,8.536107300000001,Migros,kreis_1
+6,Coop Hönggermarkt,47.40252,8.498733300000001,market,kreis_10
+7,Denner,47.4032811,8.498072500000001,Migros,kreis_10
+8,Migros Bahnhof Enge,47.3640724,8.5309446,Migros,kreis_2
+9,Coop Fluntern,47.376417,8.559594500000001,market,kreis_7
+10,Coop Albisriederplatz,47.3777162,8.5112192,market,kreis_3
+11,Aldi Suisse,47.3882598,8.496619500000001,market,kreis_9
+12,Coop Maagplatz,47.3858089,8.516573900000001,market,kreis_5
+13,Migros Limmatplatz,47.3855977,8.5314709,Migros,kreis_5
+14,Coop Manessehof,47.3648716,8.521006,market,kreis_3
+15,Coop City Bellevue Food,47.36736,8.546173699999999,market,kreis_1
+16,Coop Seefeld,47.357940299999996,8.5546463,market,kreis_8
+17,Migros Höschgasse,47.358366700000005,8.5540739,Migros,kreis_8
+18,Migros Stadelhofen,47.365678100000004,8.5480408,Migros,kreis_1
+19,Coop Stadelhofen,47.36676920000001,8.5481842,market,kreis_1
+20,Migros Kreuzplatz,47.3659445,8.5532614,Migros,kreis_7
+21,Coop Kreuzplatz,47.3643,8.5551291,market,kreis_8
+22,Migros Burgwies,47.3576104,8.5713693,Migros,kreis_8
+23,Lidl,47.36895820000001,8.5413011,market,kreis_1
+24,Coop Wehntalerstrasse,47.41888839999999,8.5056989,market,kreis_11
+25,Coop Scheffelstrasse,47.3936485,8.529543499999999,market,kreis_10
+26,Coop Wipkingerbrücke,47.392523499999996,8.5245187,market,kreis_10
+27,Denner,47.372825899999995,8.5294871,Migros,kreis_4
+28,Coop Rütihof,47.4137195,8.4794588,market,kreis_10
+29,Migros Seebach,47.4194826,8.5484516,Migros,kreis_11
+30,Denner,47.4211612,8.5493361,Migros,kreis_11
+31,Denner,47.3748981,8.5234086,Migros,kreis_4
+32,Coop Hohlstrasse,47.377077899999996,8.5264444,market,kreis_4
+33,Coop Universitätstrasse,47.382504299999994,8.5479921,market,kreis_6
+34,Denner,47.41143220000001,8.5264773,Migros,kreis_11
+35,Migros Albisriederplatz,47.3791999,8.5087992,Migros,kreis_4
+36,Coop Lochergut,47.375800899999994,8.517444699999999,market,kreis_4
+37,Migros Schaffhauserplatz,47.3925525,8.5384284,Migros,kreis_6
+38,Coop Milchbuck,47.395724799999996,8.5404707,market,kreis_6
+39,Denner,47.3841236,8.5317649,Migros,kreis_5
+40,Migros Schmiede Wiedikon,47.3701218,8.5200924,Migros,kreis_3
+41,Coop Schwamendingen,47.404782,8.571879199999998,market,kreis_12
+42,Spar,47.423126700000005,8.4992903,market,kreis_11
+43,Migros Brunaupark,47.3580599,8.5173007,Migros,kreis_3
+44,Spar,47.4115497,8.528030099999999,market,kreis_11
+45,Migros Affoltern,47.4204198,8.5082174,Migros,kreis_11
+46,Denner,47.419908500000005,8.508089100000001,Migros,kreis_11
+47,Migros Oerlikon Neumarkt,47.4105711,8.543095300000001,Migros,kreis_11
+48,Coop Josefstrasse,47.3847889,8.527125,market,kreis_5
+49,Coop Friesenberg,47.3610014,8.5067302,market,kreis_3
+50,Migros Wipkingen,47.393708399999994,8.5292465,Migros,kreis_10
+51,Denner,47.398866600000005,8.532628599999999,Migros,kreis_6
+52,Denner,47.3759665,8.4839506,Migros,kreis_9
+53,Aldi Suisse,47.4137506,8.5391013,market,kreis_11
+54,Lidl,47.361771600000004,8.5149344,market,kreis_3
+55,Coop Hirzenbach,47.403421200000004,8.5893605,market,kreis_12
+56,Coop Triemli,47.370275299999996,8.492019099999998,market,kreis_9
+57,VOI In der Ey,47.3704581,8.4928227,Migros,kreis_9
+58,Migros Schwamendingen,47.4037955,8.573042300000001,Migros,kreis_12
+59,Denner,47.403979,8.5727162,Migros,kreis_12
+60,Coop Stauffacher,47.373288200000005,8.5305624,market,kreis_4
+61,Coop Albisrieden,47.3758999,8.4870696,market,kreis_9
+62,Denner,47.404605,8.5744967,Migros,kreis_12
+63,VOI Paradies,47.33472879999999,8.529589,Migros,kreis_2
+64,Coop Eleven,47.4134145,8.540361500000001,market,kreis_11
+65,Coop Puls 5,47.3907031,8.5183213,market,kreis_5
+66,Lidl,47.4103223,8.5456832,market,kreis_11
+67,Coop Dorflinde,47.407567,8.5491079,market,kreis_11
+68,Coop Witikon,47.3602011,8.5947159,market,kreis_7
+69,Migros Toblerplatz,47.3793846,8.5594679,Migros,kreis_7
+70,Spar,47.402792100000006,8.546437300000001,market,kreis_11
+71,Lian Hua Asia Grocery Store,47.404084600000004,8.547921,market,kreis_11
+72,Coop Mühlackerstrasse,47.4256283,8.4969763,market,kreis_11
+73,Aldi Suisse,47.41943679999999,8.556656199999999,market,kreis_11
+74,Spar,47.400032,8.5878428,market,kreis_12
+75,Denner,47.3444645,8.530718199999999,Migros,kreis_2
+76,Coop Römerhof,47.3678218,8.560805300000002,market,kreis_7
+77,Migros Witikon-Zentrum,47.3592199,8.5856445,Migros,kreis_7
+78,Denner,47.3584946,8.5863177,Migros,kreis_7
+79,Lidl,47.4077419,8.5852897,market,kreis_12
+80,Coop Hofwiesenstrasse,47.4112061,8.5445995,market,kreis_11
+81,Spar,47.370276000000004,8.5569289,market,kreis_7
+82,Denner,47.36922070000001,8.5029311,Migros,kreis_3
+83,Migros Wiedikon M-Märt,47.3702412,8.508444500000001,Migros,kreis_3
+84,Denner,47.370239,8.508714999999999,Migros,kreis_3
+85,Coop Bärengasse,47.3702516,8.5371556,market,kreis_1
+86,VOI Witikon,47.3599127,8.593904,Migros,kreis_7
+87,Migros Höngg,47.4037862,8.4973179,Migros,kreis_10
+88,Coop Wiedikon,47.3707927,8.5158561,market,kreis_3
+89,Coop Gutstrasse,47.37374929999999,8.5023375,market,kreis_9
+90,Coop Lindenplatz,47.3875596,8.4854662,market,kreis_9
+91,Coop Altstetten,47.387410100000004,8.488920599999998,market,kreis_9
+92,Coop Europaallee,47.377731299999994,8.534719500000001,market,kreis_4
+93,Migros Altstetten Neumarkt,47.3882833,8.4875671,Migros,kreis_9
+94,Coop Precisa,47.411194099999996,8.5626146,market,kreis_12
+95,Coop Westlink,47.392126399999995,8.4898151,market,kreis_9
+96,Denner,47.3919775,8.484888900000001,Migros,kreis_9
+97,Coop Leimbach,47.3261834,8.514451,market,kreis_2
+98,Aldi Suisse,47.405947999999995,8.5918795,market,kreis_12
+99,Coop Letzipark,47.386261600000005,8.4996784,market,kreis_9
+100,VOI Leimbach,47.329774,8.5152768,Migros,kreis_2
+101,Denner,47.3581515,8.5180317,Migros,kreis_3
+102,Coop Schwellistrasse,47.424962799999996,8.5377913,market,kreis_11
+103,Migros Herdern,47.390106200000005,8.5086792,Migros,kreis_5
+104,Alnatura Höngg,47.4033485,8.4979498,Migros,kreis_10
+105,Otto's Zürich,47.387499600000005,8.488844699999998,market,kreis_9
+106,Coop Hardturm Park,47.3911135,8.5081865,market,kreis_5
+107,Migros Leimbach Sihlbogen,47.3360299,8.5189993,Migros,kreis_2
+108,Denner,47.383295000000004,8.530789500000001,Migros,kreis_5
+109,Alnatura City,47.37502070000001,8.5361724,Migros,kreis_1
+110,Aldi Suisse,47.4089385,8.5437179,market,kreis_11
+111,Denner,47.4073192,8.5485107,Migros,kreis_11
+112,Spar,47.3800378,8.4896864,market,kreis_9
+113,Alnatura Oerlikon,47.4090111,8.5435046,Migros,kreis_11
+114,Coop Wollishofen Seestrasse,47.347207700000006,8.5330286,market,kreis_2
+115,Coop Rigiplatz,47.383878,8.548021400000001,market,kreis_6
+116,Aldi Suisse,47.3808588,8.533236099999998,market,kreis_5
+117,Migros Hauptbahnhof,47.3782902,8.5404169,Migros,kreis_1
+118,Coop Hauptbahnhof,47.377825200000004,8.538369,market,kreis_1
+119,Migros ShopVilleMärt,47.3770315,8.5394102,Migros,kreis_1
+120,Coop,47.380695700000004,8.534870199999999,market,kreis_5
+121,Migros Pünt Albisrieden,47.3752033,8.485717999999999,Migros,kreis_9
+122,M-Outlet Herdern,47.3900789,8.5087002,Migros,kreis_5
+123,Migros Rigiplatz,47.3859928,8.5486931,Migros,kreis_6
+124,VOI Grünau,47.396145000000004,8.4865224,Migros,kreis_9
+125,Denner,47.4105537,8.543497300000002,Migros,kreis_11
+126,Denner,47.3887075,8.4870669,Migros,kreis_9
+127,Denner,47.385999700000006,8.4995797,Migros,kreis_9
+128,Coop City St. Annahof Food,47.3729278,8.537713,market,kreis_1
+129,Spar,47.360408299999996,8.563379199999998,market,kreis_7
+130,Aldi Suisse,47.3838311,8.4978671,market,kreis_9
+131,Coop Brotgasse,47.363156,8.549921000000001,market,kreis_8
+132,Coop Sihlcity,47.3574475,8.5228769,market,kreis_3
+133,Coop Suteracher,47.3898336,8.471855999999999,market,kreis_9
+134,Coop City Oerlikon Food,47.4104766,8.5467405,market,kreis_11
+135,Coop Tiefenbrunnen,47.3533217,8.558975,market,kreis_8
+136,Coop Bombach,47.4058783,8.4813811,market,kreis_10
+138,Coop Bleicherweg,47.3677811,8.535848199999998,market,kreis_2
+139,Coop,47.4128725,8.5470117,market,kreis_11
+140,Coop,47.393543,8.4839444,market,kreis_9
+141,Coop,47.407788700000005,8.507715800000001,market,kreis_10
+142,Migros,47.3782589,8.535903999999999,Migros,kreis_4
+143,Alnatura,47.3782757,8.535839300000001,Migros,kreis_4
+144,VOI,47.3953281,8.5183575,Migros,kreis_10
+145,Hallenstadion,47.4114512,8.5516706,sports,kreis_11
+146,Hallenbad City,47.3721255,8.5328341,sports,kreis_1
+147,Saalsporthalle,47.356662799999995,8.5202011,sports,kreis_3
+148,Freibad Allenmoos,47.4044712,8.5389228,sports,kreis_6
+149,Freibad Letzigraben,47.379405299999995,8.4996059,sports,kreis_9
+150,Sportanlage Utogrund,47.379068700000005,8.496810400000001,sports,kreis_9
+151,Sporthalle Utogrund (Klein),47.3795152,8.4974059,sports,kreis_9
+153,Hallenbad Bläsi,47.4014203,8.5018015,sports,kreis_10
+154,Sportplatz Sihlhölzli,47.3679026,8.5251315,sports,kreis_3
+155,Schiesssport-Zentrum Hönggerberg,47.4098768,8.496936300000002,sports,kreis_10
+156,Sportanlage Hardhof,47.396508000000004,8.4998492,sports,kreis_9
+158,Stadion Letzigrund,47.382789700000004,8.5036829,sports,kreis_9
+159,Sportzentrum Heuried,47.3674441,8.5054055,sports,kreis_3
+160,Wärmebad Käferberg,47.399420299999996,8.5180103,sports,kreis_10
+161,Sporthalle Sihlhölzli,47.368770899999994,8.5264535,sports,kreis_3
+162,Sporthalle Hardau,47.382552600000004,8.5089979,sports,kreis_4
+163,Hallenbad Altstetten,47.3885172,8.4796556,sports,kreis_9
+164,Flussbad Unterer Letten,47.3893589,8.5291853,sports,kreis_10
+165,Hallenbad Oerlikon,47.410129,8.5565734,sports,kreis_11
+166,Freibad Seebach,47.4239501,8.5468052,sports,kreis_11
+169,Hallenbad Leimbach,47.3264533,8.5136933,sports,kreis_2
+170,Yonex Badminton Halle,47.3851341,8.5206355,sports,kreis_5
+172,Eishalle Heuried,47.3680121,8.505591800000001,sports,kreis_3
+174,Hallenbad Bungertwies,47.3720227,8.5602139,sports,kreis_7
+175,Kunsteisbahn Dolder,47.3752285,8.5766629,sports,kreis_7
+176,Sportanlage Heerenschürli,47.4027629,8.594420900000001,sports,
+177,Sportanlage Eichrain,47.429275200000006,8.5485848,sports,kreis_11
+178,ASVZ Boulderanlage,47.40736879999999,8.510613000000001,sports,kreis_10
+179,Freestylehalle Zürich,47.398309999999995,8.483111300000001,sports,kreis_9
+180,Sportanlage Sonnenberg,47.3687446,8.5723506,sports,kreis_7
+181,Offene Rennbahn Oerlikon,47.4095583,8.551348599999999,sports,kreis_11
+182,Sportanlage Allmend Brunau,47.353862299999996,8.521955,sports,kreis_3
+183,Hochschulsportanlage Fluntern,47.382476000000004,8.573619599999999,sports,kreis_7
+185,Central Polybahn,47.376518299999994,8.544172,stations,kreis_1
+186,Polyterrasse ETH,47.3768355,8.5463178,stations,kreis_1
+187,Rigiblick,47.387333899999994,8.553348300000001,stations,kreis_6
+188,Seilbahn Rigiblick,47.3858732,8.548906500000001,stations,kreis_6
+189,Zürich Oerlikon,47.4114986,8.5441507,stations,kreis_11
+190,Zürich Hardbrücke,47.3851609,8.517392599999999,stations,kreis_4
+191,Zürich Hauptbahnhof,47.3781008,8.5393635,stations,kreis_1
+192,Zürich Stadelhofen,47.3665643,8.5483858,stations,kreis_1
+193,Stettbach,47.39715220000001,8.596107400000001,stations,kreis_12
+194,Zürich Selnau,47.3724695,8.5318556,stations,kreis_4
+195,Zürich Binz,47.3628473,8.5180854,stations,kreis_3
+196,Zürich Friesenberg,47.3648164,8.5075769,stations,kreis_3
+197,Zürich Triemli,47.364974100000005,8.495349800000001,stations,kreis_3
+198,Zürich Giesshübel,47.3626083,8.5220149,stations,kreis_3
+199,Zürich Saalsporthalle,47.358006700000004,8.5218339,stations,kreis_3
+200,Zürich Brunau,47.351597600000005,8.526223300000002,stations,kreis_2
+201,Zürich Leimbach,47.333073399999996,8.518726699999998,stations,kreis_2
+202,Zürich Wiedikon,47.371711700000006,8.5230648,stations,kreis_3
+203,Zürich Enge,47.3641833,8.5307605,stations,kreis_2
+204,Zürich Tiefenbrunnen,47.3501148,8.5613516,stations,kreis_8
+205,Zürich Seebach,47.418587200000005,8.5442186,stations,kreis_11
+206,Zürich Affoltern,47.420900700000004,8.5081772,stations,kreis_11
+207,Zürich Altstetten,47.391316700000004,8.489333199999999,stations,kreis_9
+208,Zürich Wollishofen,47.347601700000006,8.5335683,stations,kreis_2
+209,Zürich HB SZU,47.3773718,8.5394445,stations,kreis_1
+210,Zürich Schweighof,47.364965500000004,8.5035323,stations,kreis_3
+211,Zürich Manegg,47.3378542,8.5196214,stations,kreis_2
+212,Zürich Wipkingen,47.3930555,8.5293157,stations,kreis_10
+213,Tagesschule Neubühl,47.3326274,8.533236,school_bus,kreis_2
+214,Primarschule Neubühl,47.332521299999996,8.5326691,school_bus,kreis_2
+215,Kindergarten Fritschi,47.375510799999994,8.512863900000001,school_bus,kreis_3
+216,Berufsmaturitätsschule Zürich,47.3782925,8.5314358,school_bus,kreis_4
+217,Haus der Farbe,47.4113743,8.5345687,school_bus,kreis_11
+218,Kindergarten Waidfussweg I + II,47.39781370000001,8.5175519,school_bus,kreis_10
+219,Hort Glaubten 1 (Mittag-/Abendhort) + 4 (Mittaghort),47.4122559,8.5168515,school_bus,kreis_11
+220,Allgemeine Berufsschule Zürich,47.3829876,8.5367336,school_bus,kreis_5
+221,Kindergarten im Birch,47.4156831,8.5401231,school_bus,kreis_11
+222,Kindergarten Katzenbach I + II,47.4228706,8.5470656,school_bus,kreis_11
+223,Kindergarten Staudenbühl,47.4193027,8.5348321,school_bus,kreis_11
+224,Kinderkrippe Schnappi,47.4131857,8.5388817,school_bus,kreis_11
+225,GFZ Kindertagesstätte 5,47.382777000000004,8.5315296,school_bus,kreis_5
+226,Kindertagesstätte Regenbogen,47.38700120000001,8.523100900000001,school_bus,kreis_5
+227,Kinderreitschule,47.3734318,8.480793400000001,school_bus,kreis_9
+228,Rudolf Steiner Schule Zürich,47.3728111,8.5547829,school_bus,kreis_7
+229,Kindergarten Nordheim,47.4044723,8.532777900000001,school_bus,kreis_6
+230,Krippe Windrädli,47.4122726,8.5331137,school_bus,kreis_11
+231,Kindergarten Utogrund I + II,47.3801773,8.4971428,school_bus,kreis_9
+232,Klubschule Migros Oerlikon,47.4104775,8.5426205,school_bus,kreis_11
+233,Kindertagesstätte Käferhaus,47.398651,8.5168875,school_bus,kreis_10
+234,Kinderkrippe Gummibärli,47.38098,8.4955561,school_bus,kreis_9
+235,Kindergarten Tiefenbrunnen,47.3544008,8.5582271,school_bus,kreis_8
+236,"Morgentisch, Mittag-/Abendhort Tiefenbrunnen",47.354296000000005,8.558227699999998,school_bus,kreis_8
+237,Berufsfachschule für Lernende mit Hör- und Kommunikationsbehinderung (BSFH),47.4158872,8.5453343,school_bus,kreis_11
+238,"Morgentisch, Mittag-/Abendhort Albisrieden 2",47.3783853,8.5037805,school_bus,kreis_3
+239,Kinderhaus Bozza Stauffacher,47.3743295,8.5291927,school_bus,kreis_4
+240,Kinderkrippe Schneeflocke,47.3750593,8.529688199999999,school_bus,kreis_4
+241,Freie Evangelische Schule Zürich,47.368610499999996,8.5462762,school_bus,kreis_1
+242,Kita Tandem,47.3740902,8.531559199999998,school_bus,kreis_4
+243,Lernstudio Stüssistrasse,47.39259620000001,8.540793199999998,school_bus,kreis_6
+244,Interkantonale Hochschule für Heilpädagogik,47.4028415,8.5465683,school_bus,kreis_11
+245,Kindergarten Halde C1 + C2,47.4074875,8.545530099999999,school_bus,kreis_11
+246,Frida Krippe,47.3766061,8.5099036,school_bus,kreis_3
+247,Musische Kindertagesstätte MUKITA,47.377079200000004,8.5092146,school_bus,kreis_3
+248,Kindergarten Meiliweg 1 - 3,47.367538399999994,8.5171998,school_bus,kreis_3
+249,Kindergarten Bungertwies 1 + 2,47.3719098,8.5615422,school_bus,kreis_7
+250,Kindergarten Habsburgstrasse,47.3931826,8.5260414,school_bus,kreis_10
+251,Mittaghort Herzli-Träff,47.40770560000001,8.5731534,school_bus,kreis_12
+252,Krippe Schmetterling,47.3770122,8.4853629,school_bus,kreis_9
+253,Kindergarten Eugen-Huber-Strasse,47.385355700000005,8.4832253,school_bus,kreis_9
+254,Kindergarten Halde A1 + A2,47.4068282,8.546434199999998,school_bus,kreis_11
+255,Mittaghort Mittagstreff Liguster,47.4070277,8.545924099999999,school_bus,kreis_11
+256,Tagesschule Viso Parents,47.40716079999999,8.5444362,school_bus,kreis_11
+257,Kindergarten Ottikerweg I – III,47.3861943,8.5475629,school_bus,kreis_6
+258,Pädagogische Hochschule Zürich,47.3776709,8.5346312,school_bus,kreis_4
+259,Hort Glaubten 2 (Mittag-/Abendhort) + 3 (Morgentisch),47.412175,8.5126125,school_bus,kreis_11
+260,Mittaghort Hofwiesenstrasse,47.392504100000004,8.537956,school_bus,kreis_6
+261,Technikerschule HF Zürich,47.3778908,8.5323351,school_bus,kreis_4
+262,Kindergarten Gugolz,47.38266470000001,8.512065699999999,school_bus,kreis_4
+263,Kindergarten Vista Verde 1 +2,47.3246631,8.516146800000001,school_bus,kreis_2
+264,Kindergarten Bergacker I + II,47.4147485,8.5111977,school_bus,kreis_11
+265,Kindergarten Steinacker 1 + 2,47.3544531,8.600874300000001,school_bus,kreis_7
+266,Klubschule Migros Tanzwerk 101,47.3898235,8.508370800000002,school_bus,kreis_5
+267,Chinderhuus KribbelKrabbel,47.3855086,8.5018352,school_bus,kreis_9
+268,Kindergarten Milchbuck I – III,47.3962484,8.5370724,school_bus,kreis_6
+269,Kindergarten Zeppelinstrasse,47.3956589,8.536310400000001,school_bus,kreis_6
+270,Mittag-/Abendhort Wuhrstrasse,47.368334399999995,8.5203726,school_bus,kreis_3
+271,Mittag-/Abendhort Talwiesen 1 + 2,47.3647422,8.5160117,school_bus,kreis_3
+272,Kindergarten Talwiesen 1,47.3643591,8.515226199999999,school_bus,kreis_3
+273,Kindergarten Talwiesen 2,47.364200700000005,8.515405699999999,school_bus,kreis_3
+274,Mittag-/Abendhort Höfliweg,47.3686742,8.509841900000001,school_bus,kreis_3
+275,SBB Bildung,47.3897556,8.493333300000002,school_bus,kreis_9
+276,Login Berufsbildung,47.3898527,8.4930468,school_bus,kreis_9
+277,Chinderhuus BABAR,47.4162584,8.558744800000001,school_bus,kreis_11
+278,Kindergarten Zwirnerstrasse,47.3367369,8.518142300000001,school_bus,kreis_2
+279,Kindergarten Sihlbogen 1,47.33639779999999,8.5188153,school_bus,kreis_2
+280,"Universität Zürich, Oerlikon (AFL)",47.41079310000001,8.540201199999998,school_bus,kreis_11
+281,Atelierschule Zürich,47.373036299999995,8.5542538,school_bus,kreis_7
+282,Kindergarten Kosaken I + II,47.4167026,8.5494196,school_bus,kreis_11
+283,Bus Station Zürich,47.3807429,8.5375652,school_bus,kreis_5
+284,Kindergarten Freilager I + II,47.379340500000005,8.4888119,school_bus,kreis_9
+285,Kita Fugu,47.3797104,8.4886009,school_bus,kreis_9
+286,Bambolina,47.409616899999996,8.5418645,school_bus,kreis_11
+287,Russischer Kindergarten,47.3824648,8.5463603,school_bus,kreis_6
+288,ZLI,47.3904717,8.4908351,school_bus,kreis_9
+289,Güxi,47.3770189,8.5136217,school_bus,kreis_4
+290,Brunau Stiftung,47.3598736,8.5209288,school_bus,kreis_3
+291,Klubschule Migros Altstetten,47.391758100000004,8.4917717,school_bus,kreis_9
+292,Klubschule Migros Limmatplatz,47.38575170000001,8.531279,school_bus,kreis_5
+293,Schule Zürich Nord,47.4143549,8.5398625,school_bus,kreis_11
+294,Kindergarten Birmensdorferstrasse,47.3675024,8.499595,school_bus,kreis_3
+295,Kindergarten Unterer Schweighof,47.367039899999995,8.5000595,school_bus,kreis_3
+296,Kindergarten Höfliweg 1 + 2,47.369240399999995,8.5097169,school_bus,kreis_3
+297,Kindergarten Döltschiweg 1 + 2,47.3658089,8.5040217,school_bus,kreis_3
+298,Kids & Co Kindertagesstätte Tiergarten,47.366311700000004,8.5133207,school_bus,kreis_3
+299,Kindergarten Sieber,47.364489,8.5114853,school_bus,kreis_3
+300,Kindergarten Heinrich 143 A + B,47.3866448,8.5262516,school_bus,kreis_5
+301,Kindergarten Auzelg,47.414923200000004,8.5697231,school_bus,kreis_12
+302,ZHAW School of Engineering‎,47.37772929999999,8.5325937,school_bus,kreis_4
+303,GFZ Kindertagesstätte 4,47.3762382,8.5204341,school_bus,kreis_4
+304,IST Höhere Fachschule für Tourismus,47.3821347,8.5318509,school_bus,kreis_5
+305,Kindergarten Grütli 1 - 3,47.3600275,8.5309615,school_bus,kreis_2
+306,Kindergarten Obsthalden,47.4140484,8.5175339,school_bus,kreis_11
+307,Kindergarten Zehntenhaus I + II,47.4228814,8.5082544,school_bus,kreis_11
+308,Kindergarten Reckenholz I + II,47.422662100000004,8.5145189,school_bus,kreis_11
+309,Kindergarten Isengrind I + II,47.4224471,8.511882,school_bus,kreis_11
+310,Kindergarten Riedenhalden I + II,47.4193957,8.510777800000001,school_bus,kreis_11
+311,Kindergarten Ruggächer I,47.4251176,8.5014175,school_bus,kreis_11
+312,Kindergarten Hungerberg,47.4192169,8.4998341,school_bus,kreis_11
+313,Kindergarten Holzerhurd,47.42384860000001,8.495664199999998,school_bus,kreis_11
+314,Kindergarten Furttal,47.420246399999996,8.4984834,school_bus,kreis_11
+315,Kindergarten Regina-Kägi-Hof II,47.4122668,8.5323641,school_bus,kreis_11
+316,Kindergarten Regina-Kägi-Hof I,47.4124167,8.5323859,school_bus,kreis_11
+317,Kindergarten Künzli,47.407491,8.532206,school_bus,kreis_6
+318,Kindergarten Holunderhof I + II,47.410875299999994,8.5283061,school_bus,kreis_11
+319,Kindergarten Kügeliloo,47.4105347,8.529444999999999,school_bus,kreis_11
+320,Kindergarten Holzmatt,47.4135723,8.525414300000001,school_bus,kreis_11
+321,Kindergarten Neunbrunnen Beta,47.4165345,8.5330325,school_bus,kreis_11
+322,Kindergarten Neunbrunnen Alpha,47.41638820000001,8.5319136,school_bus,kreis_11
+323,Kindergarten Arnikahof,47.4157558,8.532280499999999,school_bus,kreis_11
+324,Kindergarten Althoos I + II,47.4106982,8.5217559,school_bus,kreis_11
+325,Kindergarten Salvator I + II,47.407089299999996,8.5530978,school_bus,kreis_11
+326,Kindergarten Friedheim,47.403908200000004,8.5529231,school_bus,kreis_11
+327,Kindergarten Oerlikoner,47.4058461,8.547151199999998,school_bus,kreis_11
+328,Kindergarten Caspar Wüst I + II,47.4314623,8.5419368,school_bus,kreis_11
+329,Kindergarten Schönauring I + II,47.427438,8.5386013,school_bus,kreis_11
+330,Kindergarten Eichrain,47.4300394,8.5468028,school_bus,kreis_11
+331,Kindergarten Kolbenacker I,47.4255049,8.5511144,school_bus,kreis_11
+332,Kindergarten Stiglen,47.427828399999996,8.5498731,school_bus,kreis_11
+333,Kindergarten Ettenfeld,47.4250398,8.553702000000001,school_bus,kreis_11
+334,Kindergarten Im Talbächli I + II,47.3881819,8.4696248,school_bus,kreis_9
+335,Kindergarten Am Suteracher,47.390257399999996,8.471045,school_bus,kreis_9
+336,Kindergarten Winterthurerstrasse,47.405736299999994,8.5796743,school_bus,kreis_12
+337,Kindergarten Hirzenbach,47.4051075,8.5869225,school_bus,kreis_12
+338,Kindergarten Probstei I,47.400440100000004,8.5784621,school_bus,kreis_12
+339,Kindergarten Ahorn,47.404428499999995,8.567039900000001,school_bus,kreis_12
+340,Mittag-/Abendhort Luegisland 1-2,47.4087646,8.5745615,school_bus,kreis_12
+341,Kindergarten Luegislandstrasse,47.4087601,8.5689137,school_bus,kreis_12
+342,Kindergarten Auhof I + II,47.406837200000005,8.572155,school_bus,kreis_12
+343,Kindergarten Schörlistrasse,47.4075598,8.5625971,school_bus,kreis_12
+344,Kindergarten Leutschenbach II,47.41371289999999,8.5605405,school_bus,kreis_12
+345,Kindergarten Auwiesenstrasse,47.41358820000001,8.568829699999998,school_bus,kreis_12
+346,Hardbrüggli,47.387469200000005,8.5152465,school_bus,kreis_5
+347,Kindergarten Hüslibach,47.328684499999994,8.5160176,school_bus,kreis_2
+348,Kindergarten Farenweg 1 + 2,47.3401145,8.5267739,school_bus,kreis_2
+349,Kindergarten und Hort Neubühl,47.333366999999996,8.5327401,school_bus,kreis_2
+350,"Universität Zürich, Oerlikon (BIN)",47.4143683,8.549617999999999,school_bus,kreis_11
+351,"Universität Zürich, Oerlikon (AND)",47.413188899999994,8.548750199999999,school_bus,kreis_11
+352,Mittaghort Pflegi,47.368491600000006,8.5623229,school_bus,kreis_7
+353,Kindergarten Freiestrasse,47.36652720000001,8.5586992,school_bus,kreis_7
+354,Kunst- und Sportschule Zürich,47.4156134,8.5401242,school_bus,kreis_11
+355,Mittag-/Abendhort Hammer,47.3599357,8.5641416,school_bus,kreis_7
+356,Kindergarten Hofacker Turnhaus,47.3627851,8.564831100000001,school_bus,kreis_7
+357,Kindergarten Hirslanden 1 + 2,47.3596686,8.5695357,school_bus,kreis_7
+358,Kunst- und Sportschule Zürich,47.3556831,8.559019000000001,school_bus,kreis_8
+359,"MittagstischGZ Riesbach, Mittag-/Abendhort Seefeld",47.359106,8.5541163,school_bus,kreis_8
+360,Hort Lengg,47.3541339,8.573943,school_bus,kreis_8
+361,Kindergarten Im Walder,47.3493569,8.5736445,school_bus,kreis_8
+362,Mittag-/Abendhort Vorderberg,47.3760901,8.5593676,school_bus,kreis_7
+363,Mittag-/Abendhort Fluntern 4,47.3768942,8.556625,school_bus,kreis_7
+364,Kindergarten Krähbühl,47.3781047,8.5649056,school_bus,kreis_7
+365,Mittaghort Hillside,47.3682114,8.5588043,school_bus,kreis_7
+366,Kindergarten Neumarkt,47.3725621,8.546016999999999,school_bus,kreis_1
+367,Kindergarten Hirschengraben,47.373279100000005,8.547787800000002,school_bus,kreis_1
+368,"Morgentisch, Mittag-/Abendhort Witikon",47.3590029,8.591152000000001,school_bus,kreis_7
+369,Mittaghort Heilighüsli,47.3580544,8.5858745,school_bus,kreis_7
+370,Kindergarten Witikonerstrasse,47.359272999999995,8.581215400000001,school_bus,kreis_7
+371,Kindergarten Lehfrauenweg 1,47.360324299999995,8.5895992,school_bus,kreis_7
+372,Kindergarten Buchholz 1 + 2,47.360869,8.584223099999999,school_bus,kreis_7
+373,Kinderhaus Bozza Lukashof,47.3787559,8.526125599999999,school_bus,kreis_4
+374,Kindergarten Im Herrlig 1 +2,47.3902555,8.4823846,school_bus,kreis_9
+375,Kantonale Berufsschule für Weiterbildung EB Zürich,47.3600321,8.554610499999999,school_bus,kreis_8
+376,Kantonale Maturitätsschule für Erwachsene,47.360345200000005,8.5542949,school_bus,kreis_8
+377,Freie Katholische Schule Wiedikon,47.3723075,8.5142694,school_bus,kreis_3
+378,Sprungbrett Montessori-Schule,47.3651941,8.5578231,school_bus,kreis_7
+379,Kindergarten St. Anton,47.3652855,8.557578900000001,school_bus,kreis_7
+380,Casa d'Italia,47.3800679,8.518956300000001,school_bus,kreis_4
+381,Jüdische Schule NOAM,47.3603173,8.5309988,school_bus,kreis_2
+382,Schule für Sehbehinderte,47.3849324,8.4860781,school_bus,kreis_9
+383,Heilpädagogische Schule Gotthelf,47.3684404,8.5203017,school_bus,kreis_3
+384,Talmud Toire Chajei Oilom,47.3662506,8.5275785,school_bus,kreis_2
+385,Kindergarten Goldacker I + II,47.36819929999999,8.4919806,school_bus,kreis_9
+386,Kindergarten Nordbrücke,47.394211799999994,8.5303507,school_bus,kreis_10
+387,Kindergarten Landenbergstrasse,47.3922729,8.528150199999999,school_bus,kreis_10
+388,Kindergarten Freilager III + IV,47.3779453,8.489251199999998,school_bus,kreis_9
+389,Kindergarten Waffenplatzstrasse,47.357431299999995,8.526823,school_bus,kreis_2
+390,Kindergarten Erismannhof I + II,47.379807299999996,8.519763000000001,school_bus,kreis_4
+391,Kindergarten Gutstrasse I + II,47.3730131,8.504945800000002,school_bus,kreis_3
+392,Kindergarten Manegg I – III,47.3476015,8.5261731,school_bus,kreis_2
+393,Kindergarten Schwendenweg 1 + 2,47.3689244,8.5176233,school_bus,kreis_3
+394,Kindergarten Letzigraben I + II,47.3797215,8.5029733,school_bus,kreis_3
+395,Kindergarten Brahms 47,47.378492200000004,8.5058656,school_bus,kreis_3
+396,Zürcher Hochschule der Künste ZHdK,47.3909258,8.5116801,school_bus,kreis_5
+397,ZHAW Soziale Arbeit,47.3907659,8.5119137,school_bus,kreis_5
+398,ZHAW Angewandte Psychologie,47.390605900000004,8.5121474,school_bus,kreis_5
+399,Hochschule für Wirtschaft Zürich,47.3768539,8.5338134,school_bus,kreis_4
+400,Berufsmaturitätsschule Zürich,47.3941881,8.4872688,school_bus,kreis_9
+401,Berufsschule für Detailhandel Zürich,47.3942748,8.487267999999998,school_bus,kreis_9
+402,Baugewerbliche Berufsschule Zürich,47.369657399999994,8.5314521,school_bus,kreis_1
+403,Baugewerbliche Berufsschule Zürich,47.3784516,8.531124499999999,school_bus,kreis_4
+404,Baugewerbliche Berufsschule Zürich,47.38254310000001,8.533551,school_bus,kreis_5
+405,Berufsschule Mode und Gestaltung,47.3817042,8.535109,school_bus,kreis_5
+406,F+F Schule für Kunst und Design,47.3819156,8.4926703,school_bus,kreis_9
+407,Mittag-/Abendhort Holderbach 4,47.417779100000004,8.503672400000001,school_bus,kreis_11
+408,Kindergarten Vogtsrain I + II,47.4040453,8.4990916,school_bus,kreis_10
+409,Oberstufenschule Lengg,47.349403,8.569115,school_bus,kreis_8
+410,Schule für Gesundheitsberufe,47.41535,8.543807000000001,school_bus,kreis_11
+411,AKAD Business Zürich,47.415422899999996,8.543807000000001,school_bus,kreis_11
+412,"Fachschule Viventa, Schulhaus Jungholz",47.4154943,8.543807000000001,school_bus,kreis_11
+413,Kalaidos Bildungsgruppe,47.4155643,8.543807000000001,school_bus,kreis_11
+414,Krippe Krümel,47.405867,8.548062199999999,school_bus,kreis_11
+415,Kindergarten Ackersteinstrasse,47.396500700000004,8.5079465,school_bus,kreis_10
+416,"Morgentisch, Mittag-/Abendhort Auhof",47.4074187,8.569802000000001,school_bus,kreis_12
+417,Mittaghort Ahorn/Friedrich 2 A,47.4049578,8.5686088,school_bus,kreis_12
+418,Kindergarten Grosswiesen II,47.4034999,8.587831699999999,school_bus,kreis_12
+419,Kindergarten Am Glattbogen,47.412364000000004,8.5667165,school_bus,kreis_12
+420,Kindergarten Roswiesen,47.4075536,8.5807102,school_bus,kreis_12
+421,"Morgentisch, Mittag-/Abendhort Kronwiesen",47.404444500000004,8.581246499999999,school_bus,kreis_12
+422,Kindergarten Mattenhof I,47.3992144,8.592357000000002,school_bus,kreis_12
+423,Mittag-/Abendhort Graphis 1,47.402103600000004,8.5806366,school_bus,kreis_12
+424,"Morgentisch, Mittag-/Abendhort Heideggerweg",47.4076597,8.5636704,school_bus,kreis_12
+425,Mittag-/Abendhort Kirchenacker,47.4097321,8.5535105,school_bus,kreis_11
+426,Mittag-/Abendhort Magdalenenstrasse,47.4068578,8.5535984,school_bus,kreis_11
+427,"Morgentisch, Mittag-/Abendhort Buchwiesen1 - 4",47.4276808,8.5401435,school_bus,kreis_11
+428,Mittag-/Abendhort Buhn 3,47.420156899999995,8.5409271,school_bus,kreis_11
+429,"Morgentisch, Mittag-/Abendhort Katzenbach 1 + 2",47.4231167,8.5465239,school_bus,kreis_11
+430,Mittag-/Abendhort Bernina,47.4029317,8.546062699999998,school_bus,kreis_11
+431,Mittaghort Holderbach 2,47.4231995,8.4990492,school_bus,kreis_11
+432,"Morgentisch, Mittag-/Abendhort Isengrind",47.423200099999995,8.513305,school_bus,kreis_11
+433,Mittaghort GZ Affoltern,47.4246021,8.5107835,school_bus,kreis_11
+434,Mittag-/Abendhort Wolfswinkel 1 + 2,47.4239473,8.5150881,school_bus,kreis_11
+435,Mittag-/Abendhort Kolbenacker F,47.4259048,8.5515644,school_bus,kreis_11
+436,Kindergarten Holunderhof I + II,47.40928529999999,8.5366004,school_bus,kreis_11
+437,Mittag-/Abendhort Affoltern 1 + 2,47.41131729999999,8.5335123,school_bus,kreis_11
+438,"Morgentisch, Mittag-/Abendhort Maienstrasse",47.4102547,8.5289835,school_bus,kreis_11
+439,Mittag-/AbendhortFrohheim,47.4162485,8.512481300000001,school_bus,kreis_11
+440,"Morgentisch, Mittag-/Abendhort In Böden 1 + 2",47.4183102,8.5098962,school_bus,kreis_11
+441,Mittag-/Abendhort Ruggächer 3,47.425037599999996,8.5016831,school_bus,kreis_11
+442,Kindergarten Am Wasser,47.3961615,8.504280900000001,school_bus,kreis_10
+443,Kindergarten Hardturmpark,47.3914575,8.5089938,school_bus,kreis_5
+444,Kindergarten Kraftwerk,47.3929114,8.507890199999999,school_bus,kreis_5
+445,Kindergarten Limmatgut,47.3983201,8.501904099999999,school_bus,kreis_10
+446,Kindergarten Meierhofplatz,47.4008128,8.5006992,school_bus,kreis_10
+447,Mittag-/Abendhort Hardturm 1 + 2,47.39440379999999,8.505294000000001,school_bus,kreis_5
+448,Kindergarten Brunnenhof 1 + 2,47.4003436,8.5341065,school_bus,kreis_6
+449,Kindergarten Buchegg,47.3985082,8.535153999999999,school_bus,kreis_6
+450,"Morgentisch, Mittag-/Abendhort Allenmoos",47.4031982,8.5398039,school_bus,kreis_6
+451,"Morgentisch, Mittag-/Abendhort Brunnenhof",47.400371500000006,8.5347931,school_bus,kreis_6
+452,Kindergarten Hutten Pavillon 1 + 2,47.3819878,8.549240199999998,school_bus,kreis_6
+453,Kindergarten Rütschistrasse,47.393488500000004,8.5332054,school_bus,kreis_10
+454,Kindergarten Kronenwiese 1 + 2,47.3872385,8.5364607,school_bus,kreis_6
+455,MittaghortNürenberg,47.3920526,8.532051300000001,school_bus,kreis_10
+456,Mittag-/AbendhortWasserwerk,47.3883227,8.531082199999998,school_bus,kreis_10
+457,Kindergarten Dorfstrasse,47.3946327,8.522793400000001,school_bus,kreis_10
+458,Kindergarten Hönggerstrasse,47.394234999999995,8.520547800000001,school_bus,kreis_10
+459,Kindergarten Waidhalde Schulhaus 1,47.3971563,8.525110699999999,school_bus,kreis_10
+460,Mittag-/AbendhortDorfstrasse,47.3945058,8.5227051,school_bus,kreis_10
+461,Mittag-/Abendhort Höngg,47.3929746,8.523100099999999,school_bus,kreis_10
+462,Mittaghort Trotten,47.395053000000004,8.524213900000001,school_bus,kreis_10
+463,"Morgentisch, Mittag-/Abendhort Waidhalde 1 - 3",47.39709129999999,8.5268257,school_bus,kreis_10
+464,Mittag-/Abendhort Nord 1 + 2,47.3948963,8.5266996,school_bus,kreis_10
+465,Mittag-/Abendhort Nordbrücke,47.3940774,8.5302374,school_bus,kreis_10
+466,Kindergarten Bombach 1 + 2,47.4055131,8.4839099,school_bus,kreis_10
+467,Kindergarten Wildenweg 1 + 2,47.40809960000001,8.488163900000002,school_bus,kreis_10
+468,Kindergarten Winzerhalde 1 + 2,47.401318200000006,8.4880568,school_bus,kreis_10
+469,Mittag-/Abendhort Pünten 1,47.4050667,8.488475099999999,school_bus,kreis_10
+470,"Morgentisch, Mittag-/Abendhort Riedhof 1 + 2",47.4081318,8.486,school_bus,kreis_10
+471,Mittag-/AbendhortRiedhof 3,47.407869500000004,8.485893800000001,school_bus,kreis_10
+472,Mittag-/Abendhort Rütihof 2,47.4130903,8.476061999999999,school_bus,kreis_10
+473,Mittag-/Abendhort Rütihof 3,47.4142426,8.477774400000001,school_bus,kreis_10
+474,Kindergarten Scherr 1,47.3847667,8.5467978,school_bus,kreis_6
+475,MittaghortScherr 4,47.3857401,8.5477446,school_bus,kreis_6
+476,Mittag-/Abendhort Winterthurer,47.3886438,8.5462694,school_bus,kreis_6
+477,Kindergarten Am Wettingertobel,47.4017722,8.4969274,school_bus,kreis_10
+478,Mittag-/Abendhort Vogtsrain 1,47.4044099,8.4993102,school_bus,kreis_10
+479,Kindergarten Beckenhof,47.3853962,8.5409818,school_bus,kreis_6
+480,Kindergarten Scheuchzerstrasse 1 + 2,47.388232200000004,8.5437405,school_bus,kreis_6
+481,Mittag-/Abendhort Rösli,47.3885133,8.5422159,school_bus,kreis_6
+482,Mittag-/Abendhort Turner 1,47.3881118,8.5415668,school_bus,kreis_6
+483,Mittag-/AbendhortAltstetter 4,47.3841484,8.4895201,school_bus,kreis_9
+484,Kindergarten Altweg 1 - 2,47.372872799999996,8.492173300000001,school_bus,kreis_9
+485,Kindergarten Ginsterstrasse,47.375501299999996,8.4939092,school_bus,kreis_9
+486,Mittaghort Altweg 3,47.3714479,8.4907051,school_bus,kreis_9
+487,Mittag-/Abendhort Altweg 4,47.3750886,8.4965477,school_bus,kreis_9
+488,Kindergarten Studerhaus 1 + 2,47.3886445,8.4805449,school_bus,kreis_9
+489,Kindergarten Dachslernstrasse,47.390908700000004,8.474322099999998,school_bus,kreis_9
+490,"Morgentisch Dachslern 3, Mittag-/Abendhort Dachslern 1",47.3855291,8.475592,school_bus,kreis_9
+491,Mittaghort Dachslern 2,47.385852899999996,8.481465199999999,school_bus,kreis_9
+492,Kindergarten Im Herrlig 3,47.3920912,8.479076699999998,school_bus,kreis_9
+493,Mittag-/Abendhort Im Herrlig 2,47.392805700000004,8.478619,school_bus,kreis_9
+494,Kindergarten Grünau 1 + 2,47.3965998,8.488206300000002,school_bus,kreis_9
+495,Kindergarten Grünau 3 + 4,47.3962763,8.487046099999999,school_bus,kreis_9
+496,"Morgentisch Grünau 4, Mittag-/Abendhort Grünau 3",47.3972507,8.484030699999998,school_bus,kreis_9
+497,Schulhaus In der Ey,47.3738576,8.4878801,school_bus,kreis_9
+498,Kindergarten In der Ey 3,47.374046500000006,8.487272599999999,school_bus,kreis_9
+499,Kindergarten In der Ey 4,47.376236299999995,8.4865475,school_bus,kreis_9
+500,Kindergarten Kappeli 1 + 2,47.3876414,8.491301,school_bus,kreis_9
+501,Kindegarten Kappeli 3,47.38639179999999,8.4959597,school_bus,kreis_9
+502,Kindergarten Kappeli 5,47.3903417,8.4875911,school_bus,kreis_9
+503,Mittag-/Abendhort Kappeli 5,47.3868985,8.4943746,school_bus,kreis_9
+504,Mittag-/Abendhort Loogarten 1,47.388366,8.4730327,school_bus,kreis_9
+505,Mittag-/Abendhort Loogarten 4,47.3897017,8.4723522,school_bus,kreis_9
+506,Schulhaus Triemli,47.372654100000005,8.486815,school_bus,kreis_9
+507,Mittag-/Abendhort Triemli 1,47.3728136,8.486355300000001,school_bus,kreis_9
+508,Mittag-/Abendhort Triemli 2,47.36819439999999,8.491480300000001,school_bus,kreis_9
+509,Mittag-/Abendhort Triemli 3,47.3681667,8.493862599999998,school_bus,kreis_9
+510,Kindergarten Untermoos 2,47.3840706,8.479495199999999,school_bus,kreis_9
+511,Kindergarten Flüelastrasse,47.3828313,8.4963326,school_bus,kreis_9
+512,Mittag-/Abendhort Utogrund 3,47.3766092,8.499400900000001,school_bus,kreis_9
+513,Kindergarten Hellmi 1,47.3788812,8.5240553,school_bus,kreis_4
+514,Mittag-/Abendhort Brahms 2,47.3781584,8.5047268,school_bus,kreis_3
+515,Mittag-/Abendhort Fritschi,47.375355799999994,8.5125519,school_bus,kreis_3
+516,Kindergarten Leonhard Ragaz,47.371185100000005,8.5082345,school_bus,kreis_3
+517,Kunst- & Sportschule Zürich,47.378308399999995,8.5248192,school_bus,kreis_4
+518,Kindergarten Eichbühl,47.3828802,8.5102509,school_bus,kreis_4
+519,Kindergarten Hardau Zentrum,47.3812789,8.5100517,school_bus,kreis_4
+520,Kindergarten Josef,47.3851691,8.5254875,school_bus,kreis_5
+521,Kindergarten Neugasse,47.3835825,8.5250817,school_bus,kreis_5
+522,Kindergarten Schütze,47.389158,8.5230202,school_bus,kreis_5
+523,Mittag-/Abendhort Fabrikstrasse,47.3870305,8.528865199999998,school_bus,kreis_5
+524,Mittag-/Abendhort Limmat,47.3867859,8.529205900000001,school_bus,kreis_5
+525,Kindergarten Kanzlei ABZ,47.377739299999995,8.518087199999998,school_bus,kreis_4
+526,Kindergarten Lochergut,47.3765588,8.5173962,school_bus,kreis_4
+527,Mittag-/Abendhort Erna,47.38074279999999,8.5184224,school_bus,kreis_4
+528,Mittag-/Abendhort Ernahof,47.3797596,8.517608300000001,school_bus,kreis_4
+529,Kindergarten Frauentalweg 1–2,47.35419279999999,8.5097606,school_bus,kreis_3
+530,Kindergarten Friesenberghalde,47.3620291,8.500126400000001,school_bus,kreis_3
+531,Kindergarten Grünmatt,47.362319899999996,8.503600500000001,school_bus,kreis_3
+532,Kindergarten Schweighof 180,47.358863299999996,8.5083931,school_bus,kreis_3
+533,Kindergarten Schweighof 296,47.362988200000004,8.504741099999999,school_bus,kreis_3
+534,Mittaghort Döltschihalde 1 + 2,47.3634312,8.499335499999999,school_bus,kreis_3
+535,Mittag-/Abendhort Hegianwandweg 1,47.355552,8.508613800000001,school_bus,kreis_3
+536,Mittag-/Abendhort Kleinalbis 1,47.358503000000006,8.5059898,school_bus,kreis_3
+537,"Morgentisch Schweighof 3, Mittag-/Abendhort Schweighof 1",47.3599049,8.5067776,school_bus,kreis_3
+538,Kindergarten Bruderwies 1 + 2,47.3335003,8.5170461,school_bus,kreis_2
+539,Kindergarten Hegianwandweg 1 + 2,47.357619899999996,8.512875099999999,school_bus,kreis_3
+540,Kindergarten Laubegg,47.3589636,8.5159588,school_bus,kreis_3
+541,Kindergarten Wannerstrasse,47.357007200000005,8.5164559,school_bus,kreis_3
+542,Mittaghort Bachtobel 6,47.3578273,8.513413400000001,school_bus,kreis_3
+543,Kindergarten Tiergarten,47.3662711,8.511821699999999,school_bus,kreis_3
+544,Mittag-/Abendhort Stein 1 + 2,47.3677458,8.5191996,school_bus,kreis_3
+545,Kindergarten Entlisberg Pavillon 1 + 2,47.338038299999994,8.527739,school_bus,kreis_2
+546,Kindergarten Moos 1 + 2,47.335669200000005,8.5286955,school_bus,kreis_2
+547,Mittag-/Abendhort Balber,47.3395664,8.5275093,school_bus,kreis_2
+548,Mittag-/Abendhort Dangel,47.332848600000005,8.5289651,school_bus,kreis_2
+549,Mittaghort Entlisberg 1,47.3376479,8.5244676,school_bus,kreis_2
+550,"Morgentisch Hauriweg 2, Mittag-/Abendhort Hauriweg 1",47.3365567,8.5277487,school_bus,kreis_2
+551,Mittag-/Abendhort Lettenholz,47.3388419,8.525032099999999,school_bus,kreis_2
+552,Mittag-/Abendhort Moos 1,47.3353241,8.528648599999999,school_bus,kreis_2
+553,Kindergarten Brandschenke,47.3673761,8.527992999999999,school_bus,kreis_2
+554,Mittag-/Abendhort Bürglistrasse,47.3630095,8.529027000000001,school_bus,kreis_2
+555,Mittag-/Abendhort Hügel,47.358096200000006,8.5265487,school_bus,kreis_2
+556,Kindergarten Maneggpromenade,47.3320826,8.5137837,school_bus,kreis_2
+557,Kindergarten Rebenweg 1,47.334129100000006,8.51395,school_bus,kreis_2
+558,Mittag-/Abendhort Leimbach 3,47.332891499999995,8.516093199999998,school_bus,kreis_2
+559,Mittaghort Kilchberg 2,47.3427917,8.5340174,school_bus,kreis_2
+560,"Morgentisch, Mittag-/Abendhort Küngenmatt 1 - 2",47.3685722,8.5035354,school_bus,kreis_3
+561,Mittag-/Abendhort Rotach 1,47.3685015,8.5002863,school_bus,kreis_3
+562,Mittag-/Abendhort Jugendrestaurant Küngenmatt 3,47.3654935,8.4999194,school_bus,kreis_3
+563,Kindergarten Rieterstrasse,47.3532791,8.526213,school_bus,kreis_2
+564,Kindergarten Wettstein,47.342442600000005,8.5349381,school_bus,kreis_2
+565,Mittag-/Abendhort Kilchberg 1A + 1B,47.3429395,8.5330032,school_bus,kreis_2
+566,Mittag-/Abendhort Sihlweid 1,47.3250201,8.5161401,school_bus,kreis_2
+567,"Morgentisch Sihlweid 4, Mittag-/Abendhort Sihlweid 2A + 2B",47.328784999999996,8.513095199999999,school_bus,kreis_2
+568,Mittag-/Abendhort Sihlweid 3,47.326562,8.516315400000002,school_bus,kreis_2
+569,Kindertgarten Hadlaub,47.3825907,8.553631800000002,school_bus,kreis_7
+570,Mittag-/Abendhort Neumünsterpavillon,47.361418799999996,8.5589316,school_bus,kreis_8
+571,Kindergarten Looren A1 + A2,47.3612083,8.595983,school_bus,kreis_7
+572,Pavillon Riesbach,47.3560512,8.5584576,school_bus,kreis_8
+573,Mittag-/Abendhort Fluntern 5,47.3757044,8.5593423,school_bus,kreis_7
+574,Mittaghort Lokal,47.3792862,8.5543602,school_bus,kreis_7
+575,Hull's School,47.3656237,8.548774,school_bus,kreis_8
+576,Kindergarten Brauer,47.379023,8.5256009,school_bus,kreis_4
+577,Kindergarten Hohl,47.378207399999994,8.525079199999999,school_bus,kreis_4
+578,Freier Chindsgi Hönggerberg,47.40212639999999,8.5070964,school_bus,kreis_10
+579,Schule Dandelion,47.381358500000005,8.4879598,school_bus,kreis_9
+580,Schule für Kunst und Design Zürich,47.3618175,8.512442199999999,school_bus,kreis_3
+581,Montessori Schule Zürich,47.384981599999996,8.544619500000001,school_bus,kreis_6
+582,Kindergarten Aemtler D,47.373383600000004,8.511714,school_bus,kreis_3
